@@ -19,11 +19,7 @@ for (var d in arr) {
     case 4:
       developers = "Разработчика";
       break;
-    case 5:
-    case 6:
-    case 7:
-    case 8:
-    case 9:
+defult
       developers = "Разработчиков";
   }
   console.log(arr[d] + " " + developers);
